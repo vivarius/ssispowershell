@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "SSISPowerShellTask", "SSISPowerShellTask\SSISPowerShellTask.dtproj", "{F38F6D3F-D9E6-45BE-83B9-0FCF657CF332}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F38F6D3F-D9E6-45BE-83B9-0FCF657CF332}.Development|Default.ActiveCfg = Development
+		{F38F6D3F-D9E6-45BE-83B9-0FCF657CF332}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
